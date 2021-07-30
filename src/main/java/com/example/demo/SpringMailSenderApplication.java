@@ -17,7 +17,7 @@ public class SpringMailSenderApplication {
 		System.out.println("Java Mail Sender App");
 	}
 	
-	int i=a;
+	
 	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringMailSenderApplication.class, args);
