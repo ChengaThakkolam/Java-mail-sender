@@ -13,13 +13,7 @@ import com.example.demo.services.EmailSenderService;
 @SpringBootApplication
 public class SpringMailSenderApplication {
 
-	static{
-		System.out.println("Java Mail Sender App");
-	}
 	
-	{
-		System.out.println("This is error free");
-	}
 
 	
 	public static void main(String[] args) {
