@@ -62,6 +62,7 @@ public class GmailController {
 	}
 	
 	
+// send mail API added
 	@GetMapping("/sendMails")
 	public String sendMailsForMultiUsers() throws MessagingException {
 		
