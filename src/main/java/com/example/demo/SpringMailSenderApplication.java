@@ -17,7 +17,10 @@ public class SpringMailSenderApplication {
 		System.out.println("Java Mail Sender App");
 	}
 	
-	
+	{
+		System.out.println("This is error free");
+	}
+
 	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringMailSenderApplication.class, args);
